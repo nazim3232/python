@@ -1,0 +1,1 @@
+print("This is the data type in py .")
